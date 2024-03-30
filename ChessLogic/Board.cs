@@ -26,6 +26,7 @@ namespace ChessLogic
             Board board = new Board();
             board.AddStarPieces();
             return board;
+            //////////
         }
 
         private void AddStartPieces() 
