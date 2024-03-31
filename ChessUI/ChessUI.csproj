@@ -10,10 +10,10 @@
   <ItemGroup>
     <None Remove="Assets\BishopB.png" />
     <None Remove="Assets\BishopW.png" />
-    <None Remove="Assets\Board.png" />
+    <None Remove="Assets\board.png" />
     <None Remove="Assets\CursorB.cur" />
     <None Remove="Assets\CursorW.cur" />
-    <None Remove="Assets\icon.ico" />
+    <None Remove="Assets\icon1.ico" />
     <None Remove="Assets\KingB.png" />
     <None Remove="Assets\KingW.png" />
     <None Remove="Assets\KnightB.png" />
@@ -33,10 +33,10 @@
   <ItemGroup>
     <Resource Include="Assets\BishopB.png" />
     <Resource Include="Assets\BishopW.png" />
-    <Resource Include="Assets\Board.png" />
+    <Resource Include="Assets\board.png" />
     <Resource Include="Assets\CursorB.cur" />
     <Resource Include="Assets\CursorW.cur" />
-    <Resource Include="Assets\icon.ico" />
+    <Resource Include="Assets\icon1.ico" />
     <Resource Include="Assets\KingB.png" />
     <Resource Include="Assets\KingW.png" />
     <Resource Include="Assets\KnightB.png" />
