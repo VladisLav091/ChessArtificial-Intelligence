@@ -27,3 +27,5 @@ C:\Users\Vladislav888\source\repos\ChessByVlad\ChessUI\obj\Debug\net6.0-windows\
 C:\Users\Vladislav888\source\repos\ChessByVlad\ChessUI\obj\Debug\net6.0-windows\GameOverMenu.baml
 C:\Users\Vladislav888\source\repos\ChessByVlad\ChessUI\obj\Debug\net6.0-windows\PromotionMenu.g.cs
 C:\Users\Vladislav888\source\repos\ChessByVlad\ChessUI\obj\Debug\net6.0-windows\PromotionMenu.baml
+C:\Users\Vladislav888\source\repos\ChessByVlad\ChessUI\obj\Debug\net6.0-windows\PauseMenu.g.cs
+C:\Users\Vladislav888\source\repos\ChessByVlad\ChessUI\obj\Debug\net6.0-windows\PauseMenu.baml
